@@ -1,5 +1,5 @@
 # 21FS Software Engineering Lab CLIENT (SoPra)
-This repository includes the frontend part of the semester project of the course SoPra ([source repository](https://github.com/sopra-fs21-group-22/client)). The code is written in `JavaScript`. This is only the *CLIENT*! To view the *SERVER* switch to [this repository](https://github.com/maettuu/21FS-Software-Engineering-Lab-SERVER).
+This repository includes the frontend part of the semester project of the course SoPra ([source repository](https://github.com/sopra-fs21-group-22/client)). The code is written in `JavaScript`. This is only the *CLIENT*, to view the *SERVER* switch to [this repository](https://github.com/maettuu/21FS-Software-Engineering-Lab-SERVER).
 
 Main packages: `React`, `Bootstrap`
 
