@@ -3,8 +3,8 @@ This repository includes the frontend part of the semester project of the course
 
 Main packages: `React`, `Bootstrap`
 
-## Introduction
-Over the past two months the five of us implemented the card game BANG with 21 different cards, 7 characters, and 4 roles! The main components of the game are the lobby, the game layout, the three steps of each turn, reacting to the other players game moves, and the chat with the external API. All the vital issues were successfully implemented, and even most of the medium- and low-priority issues! 97 frontend issues and 90 issues in the backend were completed.
+## Introduction BANG!
+Over the past two months the five of us implemented the card game **BANG!** with 21 different cards, 7 characters, and 4 roles! The main components of the game are the lobby, the game layout, the three steps of each turn, reacting to the other players game moves, and the chat with the external API. All the vital issues were successfully implemented, and even most of the medium- and low-priority issues! 97 frontend issues and 90 issues in the backend were completed.
 
 A quick summary of the game:
 
