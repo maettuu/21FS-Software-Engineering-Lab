@@ -1,0 +1,102 @@
+/*////////////////////////////////////////////*/
+#chosen-role_modal_header, #choose-role_modal_header{
+    background-color: rgba(174, 136, 53, 0.7);
+    border-color:rgba(174, 136, 53, 0.8);
+}
+#chosen-role_modal_header_title{
+    font-size: x-large;
+    width: 100%;
+    text-align: center;
+}
+#chosen-role_modal_body{
+    background-color: rgba(174, 136, 53, 0.6);
+}
+#chosen-role_modal_body_image{
+    border-width: 0px;
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+#chosen-role_modal_footer{
+    background-color: rgba(174, 136, 53, 0.6);
+    border: none;   
+}
+
+#player_cards_footer{
+    background-color: rgba(174, 136, 53, 0.6);
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding-right: 35px;
+    border: none;
+}
+/*////////////////////////////////////////////*/
+#choose-role_modal{
+    width: fit-content;
+}
+#choose-role_modal_body{
+    background-color: rgba(174, 136, 53, 0.6);
+    display: flex;
+}
+#choose-role_modal_footer{
+    background-color: rgba(174, 136, 53, 0.6);
+    border: none;
+}
+#choose-role_modal_body_row_col_image{
+    height: 250px;
+    border-width: 0px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 25px;
+    position: center;
+    margin-right: 10px;
+}
+/*////////////////////////////////////////////*/
+#role-info_popover{
+    width: 200px;
+    position: absolute;
+}
+#role-info_popover_title{
+    background-color: rgba(174, 136, 53, 0.6);
+    text-align: center;
+    font-size: x-large;
+}
+#role-info_popover_content{
+    background-color: rgba(174, 136, 53, 0.3);
+}
+#role-info_popover_content_card{
+    background-color: rgba(174, 136, 53, 0);
+    border: none;
+}
+#role-info_popover_content_card_cardimg{
+    width: 75%;
+    margin: auto;
+}
+/*////////////////////////////////////////////*/
+.background_container{
+    width: 1600px;
+    height: 735px;
+}
+.lobby-divider{
+    width:10px;
+    height:auto;
+    display:inline-block;
+}
+/*////////////////////////////////////////////*/
+#carousel-header{
+    font-size: 40px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+.carousel-title{
+    color: black;
+    font-size: 30px;
+}
+.carousel-single-title{
+    color: black;
+    font-size: 40px;
+}
+.carousel-text{
+    color: black;
+}
